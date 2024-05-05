@@ -1,8 +1,8 @@
 ## Ubuntu link
-[!https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt]
+[https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt]
 
 ## GAE Doc link
-[!]
+[]
 
 ## C compiler commands
 sudo apt update
