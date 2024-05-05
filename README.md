@@ -14,3 +14,9 @@ sudo apt install build-essential
 ```
 scp filename.txt username@ip_address:/home/username
 ```
+## Google Cloud App Engine
+```
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+```
