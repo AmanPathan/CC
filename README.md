@@ -19,4 +19,27 @@ scp filename.txt username@ip_address:/home/username
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+
+main.py
+import flask
+
+app = flask.Flask(__name__)
+
+@app.get("/")
+def hello():
+    return "Hello World!\n"
+
+if __name__ == "__main__":
+    app.run(host="localhost", port=8080, debug=True)
+
+requirements.txt
+Flask==3.0.2
+
+app.yaml
+runtime: python312
+
+gcloud app deploy
+
+documentation
+https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3#0
 ```
