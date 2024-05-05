@@ -5,8 +5,12 @@
 []
 
 ## C compiler commands
+```
 sudo apt update
 sudo apt install build-essential
+```
 
 ## scp command
+```
 scp filename.txt username@ip_address:/home/username
+```
