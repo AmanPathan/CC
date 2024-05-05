@@ -7,7 +7,7 @@
 ## C compiler commands
 ```
 sudo apt update
-sudo apt install build-essential
+sudo apt install build-essential // sudo apt install gcc
 ```
 
 ## scp command
