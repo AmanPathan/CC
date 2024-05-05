@@ -1,5 +1,5 @@
 ## Ubuntu link
-[https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt]()
+[https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt]
 
 ## C compiler commands
 ```
@@ -39,5 +39,5 @@ gcloud app deploy
 
 documentation
 ```
-[https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3#0]()
+[https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3#0]
 
