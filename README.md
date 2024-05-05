@@ -8,5 +8,5 @@
 sudo apt update
 sudo apt install build-essential
 
-## scp commad
+## scp command
 scp filename.txt username@ip_address:/home/username
