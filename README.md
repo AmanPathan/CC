@@ -41,3 +41,8 @@ documentation
 ```
 [https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3#0]
 
+## windows to linux
+[https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html]
+```
+sudo apt install openssh-server
+```
